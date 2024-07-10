@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A software developer from Russia</h3>
 
-- 🔭 I’m currently working on [GymPlanner](https://github.com/kerbixxx/GymPlanner)
+- 🔍 I’m currently looking for opportunities
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/kerbixxx?tab=repositories)
 
